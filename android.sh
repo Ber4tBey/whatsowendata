@@ -8,7 +8,7 @@ npm install chalk
 clear
 pkg install git -qq -y
 clear 
-git clone https://github.com/OwenPtojects/WhatsOwen -q
+git clone https://github.com/OwenProjects/WhatsOwen -q
 cd WhatsOwen
 clear
 npm install @adiwajshing/baileys@3.4.1
